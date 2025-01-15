@@ -2,3 +2,5 @@
 02. [Socket导致内存溢出](./docs/02.md)
 03. [Node.js 的单线程模型是如何处理高并发](./docs/03.md)
 04. [setImmediate、setTimeout、setInterval的区别](./docs/04.md)
+05. [如何优化以避免阻塞事件循环](./docs/05.md)
+06. [nextTick 和 setImmediate 的区别](./docs/06.md)
