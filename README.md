@@ -4,3 +4,5 @@
 04. [setImmediate、setTimeout、setInterval的区别](./docs/04.md)
 05. [如何优化以避免阻塞事件循环](./docs/05.md)
 06. [nextTick 和 setImmediate 的区别](./docs/06.md)
+07. [处理异步任务过多导致的资源耗尽问题](./docs/07.md)
+08. [高并发场景中，如何限制同时执行的异步任务数量](./docs//08.md)
